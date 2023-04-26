@@ -5,6 +5,7 @@ public class Main {
         int number;
         int sum = 0;
         Scanner input = new Scanner(System.in);
+        
         System.out.print("Lütfen bir sayı girin: ");
         number = input.nextInt();
 
