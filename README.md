@@ -2,9 +2,6 @@
 public class Main {
 
     public static void main(String[] args) {
-       
-        
-
         int number;
         int sum = 0;
         Scanner input = new Scanner(System.in);
