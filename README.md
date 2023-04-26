@@ -17,6 +17,7 @@ public class Main {
 
         if (sum == number) {
             System.out.println(number + " bir mükemmel sayıdır.");
+            
         } else {
             System.out.println(number + " bir mükemmel sayı değildir.");
         }
